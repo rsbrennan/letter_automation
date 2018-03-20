@@ -1,6 +1,6 @@
 # generate signature letter from excel file
 
-This is a python script to generate a letter of signatures from an excel file. Written specifically for letters in the house of reps, but could be modified for whatever. Note that I think this only works with python2 currently. Sorry.
+This is a python script to generate a letter of signatures from an excel file. Written specifically for letters with multiple signature lines, but could be modified for whatever. Note that I think this only works with python2 currently. Sorry.
 
 I have no idea how transportable this will be. Hopefully someone will let me know. 
 
